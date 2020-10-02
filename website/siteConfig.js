@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'tingli1101376',
-        twitter: 'tillie',
+        twitter: 'LT1101376',
         github: 'LTille',
     },
 
